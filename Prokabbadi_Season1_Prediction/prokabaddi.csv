@@ -1,0 +1,791 @@
+match_no,stage,team1,team2,team1_score,team2_score,date,location,season
+1,League,U Mumba,Jaipur Pink Panthers,45,31,26-07-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",1
+2,League,Dabang Delhi KC,Bengaluru Bulls,28,47,27-07-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",1
+3,League,Bengaluru Bulls,Puneri Paltan,40,37,28-07-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",1
+4,League,U Mumba,Bengal Warriors,36,25,29-07-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",1
+5,League,Puneri Paltan,Dabang Delhi KC,31,35,30-07-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",1
+6,League,U Mumba,Telugu Titans,35,35,31-07-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",1
+7,League,U Mumba,Patna Pirates,36,33,01-08-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",1
+8,League,Bengal Warriors,Bengaluru Bulls,30,46,02-08-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",1
+9,League,Jaipur Pink Panthers,Telugu Titans,46,32,03-08-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",1
+10,League,Bengal Warriors,Dabang Delhi KC,42,40,04-08-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",1
+11,League,Telugu Titans,Patna Pirates,35,38,05-08-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",1
+12,League,Bengal Warriors,Puneri Paltan,38,35,06-08-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",1
+13,League,Patna Pirates,Jaipur Pink Panthers,18,40,07-08-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",1
+14,League,Bengal Warriors,U Mumba,29,38,08-08-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",1
+15,League,Dabang Delhi KC,Telugu Titans,35,39,09-08-2014,"Thyagaraj Sports Complex, Delhi, Delhi",1
+16,League,Puneri Paltan,Bengaluru Bulls,33,31,10-08-2014,"Thyagaraj Sports Complex, Delhi, Delhi",1
+17,League,U Mumba,Puneri Paltan,44,28,11-08-2014,"Thyagaraj Sports Complex, Delhi, Delhi",1
+18,League,Dabang Delhi KC,Patna Pirates,31,36,12-08-2014,"Thyagaraj Sports Complex, Delhi, Delhi",1
+19,League,Bengaluru Bulls,U Mumba,34,45,13-08-2014,"Thyagaraj Sports Complex, Delhi, Delhi",1
+20,League,Dabang Delhi KC,Jaipur Pink Panthers,31,40,14-08-2014,"Thyagaraj Sports Complex, Delhi, Delhi",1
+21,League,Dabang Delhi KC,Bengal Warriors,46,36,15-08-2014,"Thyagaraj Sports Complex, Delhi, Delhi",1
+22,League,Patna Pirates,Puneri Paltan,35,27,16-08-2014,"Patliputra Sports Complex, Patna",1
+23,League,Bengal Warriors,Telugu Titans,40,35,17-08-2014,"Patliputra Sports Complex, Patna",1
+24,League,Patna Pirates,U Mumba,37,37,18-08-2014,"Patliputra Sports Complex, Patna",1
+25,League,Telugu Titans,Jaipur Pink Panthers,29,49,19-08-2014,"Patliputra Sports Complex, Patna",1
+26,League,Patna Pirates,Dabang Delhi KC,30,30,20-08-2014,"Patliputra Sports Complex, Patna",1
+27,League,Jaipur Pink Panthers,Bengal Warriors,39,23,21-08-2014,"Patliputra Sports Complex, Patna",1
+28,League,Patna Pirates,Bengaluru Bulls,35,37,22-08-2014,"Patliputra Sports Complex, Patna",1
+29,League,Puneri Paltan,Telugu Titans,36,42,23-08-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",1
+30,League,U Mumba,Bengaluru Bulls,30,33,24-08-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",1
+31,League,Puneri Paltan,Bengal Warriors,40,30,25-08-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",1
+32,League,Bengaluru Bulls,Dabang Delhi KC,27,29,26-08-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",1
+33,League,Puneri Paltan,Jaipur Pink Panthers,23,50,27-08-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",1
+34,League,Dabang Delhi KC,U Mumba,36,27,28-08-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",1
+35,League,Puneri Paltan,Patna Pirates,31,37,29-08-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",1
+36,League,Telugu Titans,Bengaluru Bulls,28,28,30-08-2014,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",1
+37,League,Bengal Warriors,Jaipur Pink Panthers,33,41,31-08-2014,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",1
+38,League,Jaipur Pink Panthers,Patna Pirates,30,52,01-09-2014,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",1
+39,League,Telugu Titans,U Mumba,44,43,02-09-2014,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",1
+40,League,Patna Pirates,Bengal Warriors,28,30,03-09-2014,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",1
+41,League,Telugu Titans,Puneri Paltan,60,24,04-09-2014,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",1
+42,League,Telugu Titans,Dabang Delhi KC,45,26,05-09-2014,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",1
+43,League,Jaipur Pink Panthers,Bengaluru Bulls,36,31,06-09-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",1
+44,League,Bengal Warriors,Patna Pirates,32,36,07-09-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",1
+45,League,Jaipur Pink Panthers,U Mumba,31,31,08-09-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",1
+46,League,Telugu Titans,Bengal Warriors,34,34,09-09-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",1
+47,League,Jaipur Pink Panthers,Dabang Delhi KC,41,31,10-09-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",1
+48,League,Patna Pirates,Telugu Titans,29,32,11-09-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",1
+49,League,Jaipur Pink Panthers,Puneri Paltan,33,27,12-09-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",1
+50,League,Bengaluru Bulls,Bengal Warriors,37,24,13-09-2014,"SREE KANTEERAVA STADIUM, Bangalore",1
+51,League,U Mumba,Dabang Delhi KC,37,30,14-09-2014,"SREE KANTEERAVA STADIUM, Bangalore",1
+52,League,Dabang Delhi KC,Puneri Paltan,45,22,15-09-2014,"SREE KANTEERAVA STADIUM, Bangalore",1
+53,League,Bengaluru Bulls,Patna Pirates,31,33,16-09-2014,"SREE KANTEERAVA STADIUM, Bangalore",1
+54,League,Bengaluru Bulls,Telugu Titans,27,26,17-09-2014,"SREE KANTEERAVA STADIUM, Bangalore",1
+55,League,Puneri Paltan,U Mumba,35,36,18-09-2014,"SREE KANTEERAVA STADIUM, Bangalore",1
+56,League,Bengaluru Bulls,Jaipur Pink Panthers,30,29,19-09-2014,"SREE KANTEERAVA STADIUM, Bangalore",1
+57,Semi Final 1,Jaipur Pink Panthers,Patna Pirates,38,18,20-09-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",1
+58,Semi Final 2,U Mumba,Bengaluru Bulls,27,23,21-09-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",1
+59,Playoff,Patna Pirates,Bengaluru Bulls,29,22,22-09-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",1
+60,Final,Jaipur Pink Panthers,U Mumba,35,24,23-09-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",1
+1,League,U Mumba,Jaipur Pink Panthers,29,28,24-09-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",2
+2,League,Bengaluru Bulls,Bengal Warriors,33,25,25-09-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",2
+3,League,Telugu Titans,Dabang Delhi KC,36,27,26-09-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",2
+4,League,U Mumba,Bengaluru Bulls,36,23,27-09-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",2
+5,League,Puneri Paltan,Telugu Titans,24,45,28-09-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",2
+6,League,U Mumba,Patna Pirates,25,20,29-09-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",2
+7,League,U Mumba,Puneri Paltan,28,21,30-09-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",2
+8,League,Bengal Warriors,Jaipur Pink Panthers,28,26,01-10-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",2
+9,League,Bengaluru Bulls,Patna Pirates,31,26,02-10-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",2
+10,League,Bengal Warriors,Telugu Titans,30,32,03-10-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",2
+11,League,Dabang Delhi KC,Puneri Paltan,38,37,04-10-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",2
+12,League,Bengal Warriors,U Mumba,25,29,05-10-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",2
+13,League,Bengaluru Bulls,Puneri Paltan,31,26,06-10-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",2
+14,League,Bengal Warriors,Dabang Delhi KC,21,32,07-10-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",2
+15,League,Jaipur Pink Panthers,Patna Pirates,23,29,08-10-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",2
+16,League,Telugu Titans,U Mumba,26,27,09-10-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",2
+17,League,Dabang Delhi KC,Bengaluru Bulls,18,33,10-10-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",2
+18,League,Jaipur Pink Panthers,Telugu Titans,22,33,11-10-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",2
+19,League,Jaipur Pink Panthers,Bengaluru Bulls,36,23,12-10-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",2
+20,League,Puneri Paltan,Bengal Warriors,33,29,13-10-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",2
+21,League,Jaipur Pink Panthers,Dabang Delhi KC,27,35,14-10-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",2
+22,League,Patna Pirates,Telugu Titans,22,34,15-10-2014,"Patliputra Sports Complex, Patna",2
+23,League,Telugu Titans,Bengaluru Bulls,21,35,16-10-2014,"Patliputra Sports Complex, Patna",2
+24,League,Patna Pirates,Dabang Delhi KC,39,22,17-10-2014,"Patliputra Sports Complex, Patna",2
+25,League,Dabang Delhi KC,U Mumba,22,27,18-10-2014,"Patliputra Sports Complex, Patna",2
+26,League,Patna Pirates,Puneri Paltan,32,28,19-10-2014,"Patliputra Sports Complex, Patna",2
+27,League,Puneri Paltan,Jaipur Pink Panthers,29,35,20-10-2014,"Patliputra Sports Complex, Patna",2
+28,League,Patna Pirates,Bengal Warriors,20,20,21-10-2014,"Patliputra Sports Complex, Patna",2
+29,League,Telugu Titans,Jaipur Pink Panthers,39,39,22-10-2014,"GACHIBOWLI INDOOR STADIUM, Hyderabad",2
+30,League,U Mumba,Dabang Delhi KC,29,25,23-10-2014,"GACHIBOWLI INDOOR STADIUM, Hyderabad",2
+31,League,Telugu Titans,Bengal Warriors,44,28,24-10-2014,"GACHIBOWLI INDOOR STADIUM, Hyderabad",2
+32,League,Bengal Warriors,Bengaluru Bulls,22,33,25-10-2014,"GACHIBOWLI INDOOR STADIUM, Hyderabad",2
+33,League,Telugu Titans,Patna Pirates,54,32,26-10-2014,"GACHIBOWLI INDOOR STADIUM, Hyderabad",2
+34,League,Jaipur Pink Panthers,U Mumba,35,25,27-10-2014,"GACHIBOWLI INDOOR STADIUM, Hyderabad",2
+35,League,Telugu Titans,Puneri Paltan,29,29,28-10-2014,"GACHIBOWLI INDOOR STADIUM, Hyderabad",2
+36,League,Dabang Delhi KC,Bengal Warriors,17,20,29-10-2014,"Thyagaraj Sports Complex, Delhi, Delhi",2
+37,League,Patna Pirates,Bengaluru Bulls,30,28,30-10-2014,"Thyagaraj Sports Complex, Delhi, Delhi",2
+38,League,U Mumba,Bengal Warriors,31,17,31-10-2014,"Thyagaraj Sports Complex, Delhi, Delhi",2
+39,League,Dabang Delhi KC,Patna Pirates,45,26,01-11-2014,"Thyagaraj Sports Complex, Delhi, Delhi",2
+40,League,Dabang Delhi KC,Jaipur Pink Panthers,21,51,02-11-2014,"Thyagaraj Sports Complex, Delhi, Delhi",2
+41,League,Jaipur Pink Panthers,Puneri Paltan,31,18,03-11-2014,"Thyagaraj Sports Complex, Delhi, Delhi",2
+42,League,Dabang Delhi KC,Telugu Titans,45,45,04-11-2014,"Thyagaraj Sports Complex, Delhi, Delhi",2
+43,League,Bengaluru Bulls,U Mumba,29,36,05-11-2014,"SREE KANTEERAVA STADIUM, Bangalore",2
+44,League,Bengal Warriors,Puneri Paltan,31,28,06-11-2014,"SREE KANTEERAVA STADIUM, Bangalore",2
+45,League,Bengaluru Bulls,Jaipur Pink Panthers,25,27,07-11-2014,"SREE KANTEERAVA STADIUM, Bangalore",2
+46,League,Bengal Warriors,Patna Pirates,32,34,08-11-2014,"SREE KANTEERAVA STADIUM, Bangalore",2
+47,League,Bengaluru Bulls,Dabang Delhi KC,40,21,09-11-2014,"SREE KANTEERAVA STADIUM, Bangalore",2
+48,League,Patna Pirates,U Mumba,27,32,10-11-2014,"SREE KANTEERAVA STADIUM, Bangalore",2
+49,League,Bengaluru Bulls,Telugu Titans,43,29,11-11-2014,"SREE KANTEERAVA STADIUM, Bangalore",2
+50,League,Puneri Paltan,Dabang Delhi KC,33,28,12-11-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",2
+51,League,Jaipur Pink Panthers,Bengal Warriors,38,39,13-11-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",2
+52,League,Puneri Paltan,U Mumba,34,39,14-11-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",2
+53,League,U Mumba,Telugu Titans,25,46,15-11-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",2
+54,League,Puneri Paltan,Patna Pirates,21,38,16-11-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",2
+55,League,Patna Pirates,Jaipur Pink Panthers,26,24,17-11-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",2
+56,League,Puneri Paltan,Bengaluru Bulls,30,31,18-11-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",2
+57,Semi Final 1,Telugu Titans,Bengaluru Bulls,38,39,19-11-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",2
+58,Semi Final 2,U Mumba,Patna Pirates,35,18,20-11-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",2
+59,Playoff,Patna Pirates,Telugu Titans,26,34,21-11-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",2
+60,Final,U Mumba,Bengaluru Bulls,36,30,22-11-2014,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",2
+1,League,Telugu Titans,U Mumba,25,27,23-11-2014,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",3
+2,League,Dabang Delhi KC,Bengaluru Bulls,29,35,24-11-2014,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",3
+3,League,Jaipur Pink Panthers,U Mumba,27,18,25-11-2014,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",3
+4,League,Telugu Titans,Puneri Paltan,27,26,26-11-2014,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",3
+5,League,Patna Pirates,Jaipur Pink Panthers,29,28,27-11-2014,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",3
+6,League,Telugu Titans,Dabang Delhi KC,45,34,28-11-2014,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",3
+7,League,Telugu Titans,Bengal Warriors,17,25,29-11-2014,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",3
+8,League,Bengaluru Bulls,Patna Pirates,24,33,30-11-2014,"SREE KANTEERAVA STADIUM, Bangalore",3
+9,League,Dabang Delhi KC,Puneri Paltan,20,38,01-12-2014,"SREE KANTEERAVA STADIUM, Bangalore",3
+10,League,Bengaluru Bulls,Bengal Warriors,24,34,02-12-2014,"SREE KANTEERAVA STADIUM, Bangalore",3
+11,League,Dabang Delhi KC,U Mumba,17,30,03-12-2014,"SREE KANTEERAVA STADIUM, Bangalore",3
+12,League,Bengaluru Bulls,Jaipur Pink Panthers,36,26,04-12-2014,"SREE KANTEERAVA STADIUM, Bangalore",3
+13,League,U Mumba,Patna Pirates,26,40,05-12-2014,"SREE KANTEERAVA STADIUM, Bangalore",3
+14,League,Bengaluru Bulls,Telugu Titans,26,35,06-12-2014,"SREE KANTEERAVA STADIUM, Bangalore",3
+15,League,Bengal Warriors,Puneri Paltan,33,28,07-12-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",3
+16,League,Jaipur Pink Panthers,Dabang Delhi KC,39,34,08-12-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",3
+17,League,Patna Pirates,Telugu Titans,29,25,09-12-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",3
+18,League,Bengal Warriors,Dabang Delhi KC,34,17,10-12-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",3
+19,League,Bengal Warriors,Patna Pirates,31,36,11-12-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",3
+20,League,U Mumba,Bengaluru Bulls,29,28,12-12-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",3
+21,League,Bengal Warriors,Jaipur Pink Panthers,34,20,13-12-2014,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",3
+22,League,Puneri Paltan,Patna Pirates,30,30,14-12-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",3
+23,League,Patna Pirates,Dabang Delhi KC,47,34,15-12-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",3
+24,League,Puneri Paltan,Jaipur Pink Panthers,32,32,16-12-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",3
+25,League,Jaipur Pink Panthers,Telugu Titans,25,27,17-12-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",3
+26,League,Puneri Paltan,U Mumba,27,29,18-12-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",3
+27,League,U Mumba,Bengal Warriors,32,21,19-12-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",3
+28,League,Puneri Paltan,Bengaluru Bulls,29,27,20-12-2014,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",3
+29,League,Patna Pirates,Bengal Warriors,32,27,21-12-2014,"Patliputra Sports Complex, Patna",3
+30,League,Telugu Titans,Jaipur Pink Panthers,26,35,22-12-2014,"Patliputra Sports Complex, Patna",3
+31,League,Patna Pirates,Bengaluru Bulls,36,32,23-12-2014,"Patliputra Sports Complex, Patna",3
+32,League,Bengaluru Bulls,Dabang Delhi KC,21,35,24-12-2014,"Patliputra Sports Complex, Patna",3
+33,League,Patna Pirates,Puneri Paltan,28,28,25-12-2014,"Patliputra Sports Complex, Patna",3
+34,League,Bengal Warriors,Telugu Titans,32,28,26-12-2014,"Patliputra Sports Complex, Patna",3
+35,League,Patna Pirates,U Mumba,28,34,27-12-2014,"Patliputra Sports Complex, Patna",3
+36,League,Jaipur Pink Panthers,Bengaluru Bulls,30,21,28-12-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",3
+37,League,Puneri Paltan,Dabang Delhi KC,32,22,29-12-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",3
+38,League,Telugu Titans,Bengaluru Bulls,40,22,30-12-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",3
+39,League,Jaipur Pink Panthers,Puneri Paltan,18,33,31-12-2014,"Sawai Mansingh Stadium, Jaipur, Jaipur",3
+40,League,Jaipur Pink Panthers,Bengal Warriors,18,34,01-01-2015,"Sawai Mansingh Stadium, Jaipur, Jaipur",3
+41,League,Bengal Warriors,U Mumba,17,30,02-01-2015,"Sawai Mansingh Stadium, Jaipur, Jaipur",3
+42,League,Jaipur Pink Panthers,Patna Pirates,24,47,03-01-2015,"Sawai Mansingh Stadium, Jaipur, Jaipur",3
+43,League,Dabang Delhi KC,Telugu Titans,36,44,04-01-2015,"Thyagaraj Sports Complex, Delhi, Delhi",3
+44,League,Bengaluru Bulls,U Mumba,18,39,05-01-2015,"Thyagaraj Sports Complex, Delhi, Delhi",3
+45,League,Dabang Delhi KC,Patna Pirates,34,67,06-01-2015,"Thyagaraj Sports Complex, Delhi, Delhi",3
+46,League,Puneri Paltan,Telugu Titans,41,24,07-01-2015,"Thyagaraj Sports Complex, Delhi, Delhi",3
+47,League,Dabang Delhi KC,Jaipur Pink Panthers,21,21,08-01-2015,"Thyagaraj Sports Complex, Delhi, Delhi",3
+48,League,Bengaluru Bulls,Puneri Paltan,27,44,09-01-2015,"Thyagaraj Sports Complex, Delhi, Delhi",3
+49,League,Dabang Delhi KC,Bengal Warriors,31,37,10-01-2015,"Thyagaraj Sports Complex, Delhi, Delhi",3
+50,League,U Mumba,Jaipur Pink Panthers,35,21,11-01-2015,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",3
+51,League,Telugu Titans,Patna Pirates,42,41,12-01-2015,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",3
+52,League,U Mumba,Puneri Paltan,30,27,13-01-2015,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",3
+53,League,Bengal Warriors,Bengaluru Bulls,26,22,14-01-2015,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",3
+54,League,U Mumba,Telugu Titans,38,22,15-01-2015,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",3
+55,League,Puneri Paltan,Bengal Warriors,43,19,16-01-2015,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",3
+56,League,U Mumba,Dabang Delhi KC,36,20,17-01-2015,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",3
+57,League,Patna Pirates,Puneri Paltan,40,21,18-01-2015,"INDIRA GANDHI INDOOR STADIUM, New Delhi",3
+58,League,U Mumba,Bengal Warriors,41,29,19-01-2015,"INDIRA GANDHI INDOOR STADIUM, New Delhi",3
+59,League,Bengal Warriors,Puneri Paltan,27,31,20-01-2015,"INDIRA GANDHI INDOOR STADIUM, New Delhi",3
+60,League,U Mumba,Patna Pirates,28,31,21-01-2015,"INDIRA GANDHI INDOOR STADIUM, New Delhi",3
+1,League,Puneri Paltan,Telugu Titans,28,24,28-07-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",4
+2,League,U Mumba,Jaipur Pink Panthers,36,34,28-07-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",4
+3,League,Bengaluru Bulls,Bengal Warriors,24,23,29-07-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",4
+4,League,Puneri Paltan,U Mumba,41,19,29-07-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",4
+5,League,Bengal Warriors,Dabang Delhi KC,31,23,30-07-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",4
+6,League,Puneri Paltan,Patna Pirates,24,30,30-07-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",4
+7,League,Puneri Paltan,Dabang Delhi KC,27,27,01-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",4
+8,League,Jaipur Pink Panthers,Telugu Titans,28,24,01-08-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",4
+9,League,U Mumba,Patna Pirates,34,36,02-08-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",4
+10,League,Jaipur Pink Panthers,Bengaluru Bulls,28,28,02-08-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",4
+11,League,U Mumba,Dabang Delhi KC,27,25,03-08-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",4
+12,League,Jaipur Pink Panthers,Bengal Warriors,36,33,04-08-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",4
+13,League,Dabang Delhi KC,Bengaluru Bulls,32,24,04-08-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",4
+14,League,Jaipur Pink Panthers,Puneri Paltan,28,33,05-08-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",4
+15,League,Telugu Titans,Patna Pirates,33,35,05-08-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",4
+16,League,Bengal Warriors,U Mumba,18,26,06-08-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",4
+17,League,Bengaluru Bulls,Puneri Paltan,29,27,06-08-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",4
+18,League,Telugu Titans,Bengal Warriors,35,18,08-08-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",4
+19,League,Telugu Titans,Bengaluru Bulls,28,30,08-08-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",4
+20,League,Dabang Delhi KC,Jaipur Pink Panthers,26,51,09-08-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",4
+21,League,Telugu Titans,U Mumba,35,30,10-08-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",4
+22,League,Patna Pirates,Bengaluru Bulls,31,25,10-08-2017,"Patliputra Sports Complex, Patna",4
+23,League,Bengaluru Bulls,U Mumba,23,24,11-08-2017,"Patliputra Sports Complex, Patna",4
+24,League,Patna Pirates,Bengal Warriors,35,21,12-08-2017,"Patliputra Sports Complex, Patna",4
+25,League,Bengal Warriors,Puneri Paltan,31,38,12-08-2017,"Patliputra Sports Complex, Patna",4
+26,League,Patna Pirates,Dabang Delhi KC,15,33,13-08-2017,"Patliputra Sports Complex, Patna",4
+27,League,Dabang Delhi KC,Telugu Titans,23,28,13-08-2017,"Patliputra Sports Complex, Patna",4
+28,League,Patna Pirates,Jaipur Pink Panthers,21,26,15-08-2017,"Patliputra Sports Complex, Patna",4
+29,League,Bengaluru Bulls,Telugu Titans,24,32,15-08-2017,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",4
+30,League,Puneri Paltan,Bengal Warriors,34,34,16-08-2017,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",4
+31,League,Bengaluru Bulls,Jaipur Pink Panthers,22,24,16-08-2017,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",4
+32,League,Jaipur Pink Panthers,U Mumba,23,29,17-08-2017,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",4
+33,League,Bengaluru Bulls,Patna Pirates,23,38,17-08-2017,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",4
+34,League,Telugu Titans,Puneri Paltan,32,29,18-08-2017,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",4
+35,League,Bengaluru Bulls,Dabang Delhi KC,20,40,18-08-2017,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",4
+36,League,Bengal Warriors,Jaipur Pink Panthers,32,25,19-08-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",4
+37,League,Patna Pirates,U Mumba,34,24,19-08-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",4
+38,League,Puneri Paltan,Jaipur Pink Panthers,27,33,20-08-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",4
+39,League,Bengal Warriors,Patna Pirates,27,33,20-08-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",4
+40,League,Bengal Warriors,Telugu Titans,34,34,22-08-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",4
+41,League,Telugu Titans,Dabang Delhi KC,36,28,22-08-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",4
+42,League,Bengal Warriors,Bengaluru Bulls,25,27,23-08-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",4
+43,League,U Mumba,Puneri Paltan,34,31,23-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",4
+44,League,Jaipur Pink Panthers,Dabang Delhi KC,24,22,24-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",4
+45,League,U Mumba,Telugu Titans,25,25,25-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",4
+46,League,Jaipur Pink Panthers,Patna Pirates,29,22,25-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",4
+47,League,U Mumba,Bengal Warriors,27,31,26-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",4
+48,League,Patna Pirates,Puneri Paltan,31,28,26-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",4
+49,League,U Mumba,Bengaluru Bulls,27,28,27-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",4
+50,League,Dabang Delhi KC,Bengal Warriors,41,20,27-08-2017,"Thyagaraj Sports Complex, Delhi, Delhi",4
+51,League,Telugu Titans,Jaipur Pink Panthers,35,23,29-08-2017,"Thyagaraj Sports Complex, Delhi, Delhi",4
+52,League,Dabang Delhi KC,Patna Pirates,31,32,29-08-2017,"Thyagaraj Sports Complex, Delhi, Delhi",4
+53,League,Patna Pirates,Telugu Titans,25,46,30-08-2017,"Thyagaraj Sports Complex, Delhi, Delhi",4
+54,League,Dabang Delhi KC,Puneri Paltan,34,39,31-08-2017,"Thyagaraj Sports Complex, Delhi, Delhi",4
+55,League,Puneri Paltan,Bengaluru Bulls,36,33,31-08-2017,"Thyagaraj Sports Complex, Delhi, Delhi",4
+56,League,Dabang Delhi KC,U Mumba,34,38,01-09-2017,"Thyagaraj Sports Complex, Delhi, Delhi",4
+57,Semi Final 1,Patna Pirates,Puneri Paltan,37,33,02-09-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",4
+58,Semi Final 2,Telugu Titans,Jaipur Pink Panthers,23,34,02-09-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",4
+59,Playoff,Telugu Titans,Puneri Paltan,35,40,03-09-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",4
+60,Final,Patna Pirates,Jaipur Pink Panthers,37,29,03-09-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",4
+1,League,Telugu Titans,Tamil Thalaivas,32,27,28-07-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",5
+2,League,U Mumba,Puneri Paltan,21,33,28-07-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",5
+3,League,Jaipur Pink Panthers,Dabang Delhi KC,26,30,29-07-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",5
+4,League,Telugu Titans,Patna Pirates,29,35,29-07-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",5
+5,League,U Mumba,Haryana Steelers,29,28,30-07-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",5
+6,League,Telugu Titans,Bengaluru Bulls,21,31,30-07-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",5
+7,League,Gujarat Fortunegiants,Dabang Delhi KC,26,20,01-08-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",5
+8,League,Telugu Titans,UP Yoddha,18,31,01-08-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",5
+9,League,Gujarat Fortunegiants,Haryana Steelers,27,27,02-08-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",5
+10,League,Telugu Titans,Bengal Warriors,24,30,02-08-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",5
+11,League,Telugu Titans,Patna Pirates,35,43,03-08-2017,"GACHIBOWLI INDOOR STADIUM, Hyderabad",5
+12,League,Bengaluru Bulls,Tamil Thalaivas,32,31,04-08-2017,"Mankapur Indoor Stadium, Nagpur, Nagpur",5
+13,League,Puneri Paltan,Dabang Delhi KC,26,21,04-08-2017,"Mankapur Indoor Stadium, Nagpur, Nagpur",5
+14,League,U Mumba,Dabang Delhi KC,36,22,05-08-2017,"Mankapur Indoor Stadium, Nagpur, Nagpur",5
+15,League,Bengaluru Bulls,UP Yoddha,27,32,05-08-2017,"Mankapur Indoor Stadium, Nagpur, Nagpur",5
+16,League,Bengal Warriors,UP Yoddha,41,20,06-08-2017,"Mankapur Indoor Stadium, Nagpur, Nagpur",5
+17,League,Bengaluru Bulls,Patna Pirates,31,46,06-08-2017,"Mankapur Indoor Stadium, Nagpur, Nagpur",5
+18,League,Gujarat Fortunegiants,Haryana Steelers,20,32,08-08-2017,"Mankapur Indoor Stadium, Nagpur, Nagpur",5
+19,League,Bengaluru Bulls,Telugu Titans,21,21,08-08-2017,"Mankapur Indoor Stadium, Nagpur, Nagpur",5
+20,League,Bengaluru Bulls,Bengal Warriors,31,25,09-08-2017,"Mankapur Indoor Stadium, Nagpur, Nagpur",5
+21,League,Puneri Paltan,Jaipur Pink Panthers,28,30,10-08-2017,"Mankapur Indoor Stadium, Nagpur, Nagpur",5
+22,League,Bengaluru Bulls,Tamil Thalaivas,24,29,10-08-2017,"Mankapur Indoor Stadium, Nagpur, Nagpur",5
+23,League,Gujarat Fortunegiants,U Mumba,39,21,11-08-2017,"The Arena, Ahmedabad, Ahmedabad",5
+24,League,Telugu Titans,UP Yoddha,32,39,12-08-2017,"The Arena, Ahmedabad, Ahmedabad",5
+25,League,Gujarat Fortunegiants,Dabang Delhi KC,29,25,12-08-2017,"The Arena, Ahmedabad, Ahmedabad",5
+26,League,Patna Pirates,UP Yoddha,27,27,13-08-2017,"The Arena, Ahmedabad, Ahmedabad",5
+27,League,Gujarat Fortunegiants,Jaipur Pink Panthers,27,20,13-08-2017,"The Arena, Ahmedabad, Ahmedabad",5
+28,League,Bengal Warriors,Puneri Paltan,17,34,15-08-2017,"The Arena, Ahmedabad, Ahmedabad",5
+29,League,Gujarat Fortunegiants,Bengaluru Bulls,27,24,15-08-2017,"The Arena, Ahmedabad, Ahmedabad",5
+30,League,Haryana Steelers,Tamil Thalaivas,25,25,16-08-2017,"The Arena, Ahmedabad, Ahmedabad",5
+31,League,Gujarat Fortunegiants,Telugu Titans,29,19,16-08-2017,"The Arena, Ahmedabad, Ahmedabad",5
+32,League,Dabang Delhi KC,Tamil Thalaivas,30,29,17-08-2017,"The Arena, Ahmedabad, Ahmedabad",5
+33,League,Gujarat Fortunegiants,Bengal Warriors,26,26,17-08-2017,"The Arena, Ahmedabad, Ahmedabad",5
+34,League,UP Yoddha,U Mumba,34,37,18-08-2017,"Babu Banarasi Das Indoor Stadium, Lucknow, Lucknow",5
+35,League,Bengaluru Bulls,Jaipur Pink Panthers,28,30,18-08-2017,"Babu Banarasi Das Indoor Stadium, Lucknow, Lucknow",5
+36,League,Telugu Titans,U Mumba,37,32,19-08-2017,"Babu Banarasi Das Indoor Stadium, Lucknow, Lucknow",5
+37,League,UP Yoddha,Haryana Steelers,29,36,19-08-2017,"Babu Banarasi Das Indoor Stadium, Lucknow, Lucknow",5
+38,League,Patna Pirates,Puneri Paltan,42,47,20-08-2017,"Babu Banarasi Das Indoor Stadium, Lucknow, Lucknow",5
+39,League,UP Yoddha,Jaipur Pink Panthers,22,24,20-08-2017,"Babu Banarasi Das Indoor Stadium, Lucknow, Lucknow",5
+40,League,Gujarat Fortunegiants,Puneri Paltan,35,21,22-08-2017,"Babu Banarasi Das Indoor Stadium, Lucknow, Lucknow",5
+41,League,UP Yoddha,Bengal Warriors,31,32,22-08-2017,"Babu Banarasi Das Indoor Stadium, Lucknow, Lucknow",5
+42,League,Haryana Steelers,Dabang Delhi KC,27,25,23-08-2017,"Babu Banarasi Das Indoor Stadium, Lucknow, Lucknow",5
+43,League,UP Yoddha,Tamil Thalaivas,33,33,23-08-2017,"Babu Banarasi Das Indoor Stadium, Lucknow, Lucknow",5
+44,League,UP Yoddha,Telugu Titans,25,23,24-08-2017,"Babu Banarasi Das Indoor Stadium, Lucknow, Lucknow",5
+45,League,U Mumba,Jaipur Pink Panthers,36,39,25-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+46,League,Bengal Warriors,Patna Pirates,36,36,25-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+47,League,Patna Pirates,Tamil Thalaivas,35,24,26-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+48,League,U Mumba,Puneri Paltan,24,26,26-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+49,League,Bengal Warriors,Bengaluru Bulls,31,27,27-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+50,League,U Mumba,Dabang Delhi KC,32,33,27-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+51,League,Bengaluru Bulls,UP Yoddha,64,24,29-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+52,League,U Mumba,Gujarat Fortunegiants,23,45,29-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+53,League,U Mumba,Haryana Steelers,38,32,30-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+54,League,Telugu Titans,Tamil Thalaivas,33,28,31-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+55,League,U Mumba,Jaipur Pink Panthers,35,32,31-08-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+56,League,Bengal Warriors,Patna Pirates,41,38,01-09-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",5
+57,League,Gujarat Fortunegiants,Haryana Steelers,36,42,02-09-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",5
+58,League,Bengal Warriors,UP Yoddha,26,26,02-09-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",5
+59,League,Gujarat Fortunegiants,Jaipur Pink Panthers,25,31,03-09-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",5
+60,League,Bengal Warriors,Tamil Thalaivas,29,25,03-09-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",5
+61,League,Patna Pirates,Jaipur Pink Panthers,47,21,05-09-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",5
+62,League,Bengal Warriors,Haryana Steelers,29,36,05-09-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",5
+63,League,Dabang Delhi KC,Bengaluru Bulls,38,30,06-09-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",5
+64,League,Bengal Warriors,U Mumba,31,37,06-09-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",5
+65,League,Telugu Titans,Puneri Paltan,37,42,07-09-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",5
+66,League,Bengal Warriors,Dabang Delhi KC,31,31,07-09-2017,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",5
+67,League,Haryana Steelers,Patna Pirates,41,41,08-09-2017,"Motilal Nehru School Of Sports, Sonepat, Sonepat",5
+68,League,Gujarat Fortunegiants,UP Yoddha,30,30,08-09-2017,"Motilal Nehru School Of Sports, Sonepat, Sonepat",5
+69,League,Patna Pirates,U Mumba,41,51,09-09-2017,"Motilal Nehru School Of Sports, Sonepat, Sonepat",5
+70,League,Haryana Steelers,Bengaluru Bulls,38,31,09-09-2017,"Motilal Nehru School Of Sports, Sonepat, Sonepat",5
+71,League,Bengaluru Bulls,Puneri Paltan,24,20,10-09-2017,"Motilal Nehru School Of Sports, Sonepat, Sonepat",5
+72,League,Haryana Steelers,Telugu Titans,19,37,10-09-2017,"Motilal Nehru School Of Sports, Sonepat, Sonepat",5
+73,League,Bengal Warriors,Telugu Titans,32,31,12-09-2017,"Motilal Nehru School Of Sports, Sonepat, Sonepat",5
+74,League,Haryana Steelers,Dabang Delhi KC,27,24,12-09-2017,"Motilal Nehru School Of Sports, Sonepat, Sonepat",5
+75,League,Tamil Thalaivas,UP Yoddha,34,33,13-09-2017,"Motilal Nehru School Of Sports, Sonepat, Sonepat",5
+76,League,Haryana Steelers,Puneri Paltan,22,38,13-09-2017,"Motilal Nehru School Of Sports, Sonepat, Sonepat",5
+77,League,Haryana Steelers,Jaipur Pink Panthers,27,27,14-09-2017,"Motilal Nehru School Of Sports, Sonepat, Sonepat",5
+78,League,Patna Pirates,Telugu Titans,46,30,15-09-2017,"Harivansh Tana Bhagat Indoor Stadium, Ranchi, Ranchi",5
+79,League,U Mumba,Gujarat Fortunegiants,28,39,15-09-2017,"Harivansh Tana Bhagat Indoor Stadium, Ranchi, Ranchi",5
+80,League,Bengaluru Bulls,Telugu Titans,26,26,16-09-2017,"Harivansh Tana Bhagat Indoor Stadium, Ranchi, Ranchi",5
+81,League,Patna Pirates,UP Yoddha,45,42,16-09-2017,"Harivansh Tana Bhagat Indoor Stadium, Ranchi, Ranchi",5
+82,League,Jaipur Pink Panthers,Dabang Delhi KC,36,25,17-09-2017,"Harivansh Tana Bhagat Indoor Stadium, Ranchi, Ranchi",5
+83,League,Patna Pirates,Bengal Warriors,37,37,17-09-2017,"Harivansh Tana Bhagat Indoor Stadium, Ranchi, Ranchi",5
+84,League,Puneri Paltan,Haryana Steelers,37,25,19-09-2017,"Harivansh Tana Bhagat Indoor Stadium, Ranchi, Ranchi",5
+85,League,Patna Pirates,Bengaluru Bulls,36,32,19-09-2017,"Harivansh Tana Bhagat Indoor Stadium, Ranchi, Ranchi",5
+86,League,Patna Pirates,Tamil Thalaivas,41,39,20-09-2017,"Harivansh Tana Bhagat Indoor Stadium, Ranchi, Ranchi",5
+87,League,Jaipur Pink Panthers,Haryana Steelers,26,30,21-09-2017,"Harivansh Tana Bhagat Indoor Stadium, Ranchi, Ranchi",5
+88,League,Patna Pirates,UP Yoddha,41,46,21-09-2017,"Harivansh Tana Bhagat Indoor Stadium, Ranchi, Ranchi",5
+89,League,Dabang Delhi KC,U Mumba,28,30,22-09-2017,"Thyagaraj Sports Complex, Delhi, Delhi",5
+90,League,Bengaluru Bulls,Bengal Warriors,29,33,23-09-2017,"Thyagaraj Sports Complex, Delhi, Delhi",5
+91,League,Dabang Delhi KC,Puneri Paltan,29,34,23-09-2017,"Thyagaraj Sports Complex, Delhi, Delhi",5
+92,League,Bengal Warriors,Tamil Thalaivas,32,33,24-09-2017,"Thyagaraj Sports Complex, Delhi, Delhi",5
+93,League,Dabang Delhi KC,Haryana Steelers,24,42,24-09-2017,"Thyagaraj Sports Complex, Delhi, Delhi",5
+94,League,Gujarat Fortunegiants,Tamil Thalaivas,34,35,26-09-2017,"Thyagaraj Sports Complex, Delhi, Delhi",5
+95,League,Dabang Delhi KC,Patna Pirates,34,36,26-09-2017,"Thyagaraj Sports Complex, Delhi, Delhi",5
+96,League,Telugu Titans,Jaipur Pink Panthers,41,34,27-09-2017,"Thyagaraj Sports Complex, Delhi, Delhi",5
+97,League,Dabang Delhi KC,UP Yoddha,16,45,27-09-2017,"Thyagaraj Sports Complex, Delhi, Delhi",5
+98,League,Bengaluru Bulls,U Mumba,30,42,28-09-2017,"Thyagaraj Sports Complex, Delhi, Delhi",5
+99,League,Dabang Delhi KC,Telugu Titans,22,44,28-09-2017,"Thyagaraj Sports Complex, Delhi, Delhi",5
+0,League,Tamil Thalaivas,Puneri Paltan,20,33,29-09-2017,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",5
+1,League,Gujarat Fortunegiants,Patna Pirates,30,29,29-09-2017,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",5
+2,League,Puneri Paltan,UP Yoddha,34,33,30-09-2017,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",5
+3,League,Tamil Thalaivas,Jaipur Pink Panthers,26,27,30-09-2017,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",5
+4,League,Jaipur Pink Panthers,Bengal Warriors,31,32,01-10-2017,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",5
+5,League,Tamil Thalaivas,U Mumba,30,33,01-10-2017,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",5
+6,League,Dabang Delhi KC,Gujarat Fortunegiants,22,42,03-10-2017,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",5
+7,League,Tamil Thalaivas,Telugu Titans,37,58,03-10-2017,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",5
+8,League,U Mumba,Haryana Steelers,30,41,04-10-2017,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",5
+9,League,Tamil Thalaivas,UP Yoddha,33,37,04-10-2017,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",5
+10,League,Tamil Thalaivas,Bengaluru Bulls,35,45,05-10-2017,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",5
+11,League,Jaipur Pink Panthers,Gujarat Fortunegiants,23,29,06-10-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",5
+12,League,Puneri Paltan,Bengal Warriors,19,25,06-10-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",5
+13,League,Haryana Steelers,Telugu Titans,32,30,07-10-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",5
+14,League,Jaipur Pink Panthers,U Mumba,36,32,07-10-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",5
+15,League,Gujarat Fortunegiants,Patna Pirates,33,29,08-10-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",5
+16,League,Jaipur Pink Panthers,Puneri Paltan,30,38,08-10-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",5
+17,League,U Mumba,Tamil Thalaivas,35,38,10-10-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",5
+18,League,Jaipur Pink Panthers,Dabang Delhi KC,34,36,10-10-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",5
+19,League,Dabang Delhi KC,Bengaluru Bulls,32,35,11-10-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",5
+20,League,Jaipur Pink Panthers,Haryana Steelers,27,37,11-10-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",5
+21,League,Jaipur Pink Panthers,UP Yoddha,32,53,12-10-2017,"Sawai Mansingh Stadium, Jaipur, Jaipur",5
+22,League,Puneri Paltan,Gujarat Fortunegiants,20,44,13-10-2017,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",5
+23,League,Bengal Warriors,Tamil Thalaivas,34,30,13-10-2017,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",5
+24,League,Tamil Thalaivas,Patna Pirates,40,37,14-10-2017,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",5
+25,League,Puneri Paltan,U Mumba,43,24,14-10-2017,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",5
+26,League,Bengaluru Bulls,UP Yoddha,38,32,15-10-2017,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",5
+27,League,Puneri Paltan,Dabang Delhi KC,34,31,15-10-2017,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",5
+28,League,Puneri Paltan,Haryana Steelers,27,31,17-10-2017,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",5
+29,League,Patna Pirates,Bengaluru Bulls,29,29,18-10-2017,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",5
+30,League,Puneri Paltan,Jaipur Pink Panthers,38,15,18-10-2017,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",5
+31,League,Telugu Titans,Bengal Warriors,37,37,20-10-2017,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",5
+32,League,Puneri Paltan,Gujarat Fortunegiants,22,23,20-10-2017,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",5
+33,Eliminator 1,Puneri Paltan,UP Yoddha,40,38,22-10-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+34,Eliminator 2,Patna Pirates,Haryana Steelers,69,30,22-10-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+35,Qualifier 1,Gujarat Fortunegiants,Bengal Warriors,42,17,23-10-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+36,Eliminator 3,Puneri Paltan,Patna Pirates,31,41,23-10-2017,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",5
+37,Qualifier 2,Bengal Warriors,Patna Pirates,42,48,26-10-2017,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",5
+38,Final,Gujarat Fortunegiants,Patna Pirates,38,55,28-10-2017,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",5
+1,League,Tamil Thalaivas,Patna Pirates,42,26,07-10-2018,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",6
+2,League,Puneri Paltan,U Mumba,32,32,07-10-2018,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",6
+3,League,Puneri Paltan,Haryana Steelers,34,22,08-10-2018,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",6
+4,League,Tamil Thalaivas,UP Yoddha,32,37,08-10-2018,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",6
+5,League,Dabang Delhi KC,Gujarat Fortunegiants,32,32,09-10-2018,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",6
+6,League,Tamil Thalaivas,Telugu Titans,28,33,09-10-2018,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",6
+7,League,U Mumba,Jaipur Pink Panthers,39,32,10-10-2018,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",6
+8,League,Tamil Thalaivas,Bengaluru Bulls,37,48,10-10-2018,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",6
+9,League,UP Yoddha,Patna Pirates,41,43,11-10-2018,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",6
+10,League,Tamil Thalaivas,Bengal Warriors,27,36,11-10-2018,"Jawaharlal Nehru Indoor Stadium, Chennai, Chennai",6
+11,League,Haryana Steelers,Gujarat Fortunegiants,32,25,12-10-2018,"Motilal Nehru School Of Sports, Sonepat, Sonepat",6
+12,League,Puneri Paltan,Dabang Delhi KC,37,41,12-10-2018,"Motilal Nehru School Of Sports, Sonepat, Sonepat",6
+13,League,Telugu Titans,UP Yoddha,34,29,13-10-2018,"Motilal Nehru School Of Sports, Sonepat, Sonepat",6
+14,League,Haryana Steelers,U Mumba,26,53,13-10-2018,"Motilal Nehru School Of Sports, Sonepat, Sonepat",6
+15,League,Patna Pirates,UP Yoddha,43,37,14-10-2018,"Motilal Nehru School Of Sports, Sonepat, Sonepat",6
+16,League,Haryana Steelers,Puneri Paltan,27,45,14-10-2018,"Motilal Nehru School Of Sports, Sonepat, Sonepat",6
+17,League,Bengal Warriors,Telugu Titans,30,25,16-10-2018,"Motilal Nehru School Of Sports, Sonepat, Sonepat",6
+18,League,Haryana Steelers,Jaipur Pink Panthers,33,36,16-10-2018,"Motilal Nehru School Of Sports, Sonepat, Sonepat",6
+19,League,Bengaluru Bulls,Tamil Thalaivas,44,35,17-10-2018,"Motilal Nehru School Of Sports, Sonepat, Sonepat",6
+20,League,Haryana Steelers,U Mumba,32,42,17-10-2018,"Motilal Nehru School Of Sports, Sonepat, Sonepat",6
+21,League,Haryana Steelers,Dabang Delhi KC,34,31,18-10-2018,"Motilal Nehru School Of Sports, Sonepat, Sonepat",6
+22,League,Puneri Paltan,Gujarat Fortunegiants,28,34,18-10-2018,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",6
+23,League,Patna Pirates,Telugu Titans,31,35,19-10-2018,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",6
+24,League,Puneri Paltan,Jaipur Pink Panthers,29,25,19-10-2018,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",6
+25,League,UP Yoddha,Bengal Warriors,40,40,20-10-2018,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",6
+26,League,Puneri Paltan,U Mumba,33,32,20-10-2018,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",6
+27,League,Dabang Delhi KC,Bengal Warriors,39,30,21-10-2018,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",6
+28,League,Puneri Paltan,Bengaluru Bulls,27,25,21-10-2018,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",6
+29,League,U Mumba,Telugu Titans,41,20,23-10-2018,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",6
+30,League,Puneri Paltan,Tamil Thalaivas,31,36,23-10-2018,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",6
+31,League,Bengaluru Bulls,Haryana Steelers,42,34,24-10-2018,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",6
+32,League,Puneri Paltan,UP Yoddha,23,29,24-10-2018,"Shree Shiv Chhatrapati Sports Complex, Pune, Pune",6
+33,League,Patna Pirates,Jaipur Pink Panthers,41,30,26-10-2018,"Patliputra Sports Complex, Patna",6
+34,League,Gujarat Fortunegiants,Tamil Thalaivas,36,25,26-10-2018,"Patliputra Sports Complex, Patna",6
+35,League,Jaipur Pink Panthers,Bengal Warriors,28,39,27-10-2018,"Patliputra Sports Complex, Patna",6
+36,League,Patna Pirates,U Mumba,39,40,27-10-2018,"Patliputra Sports Complex, Patna",6
+37,League,Dabang Delhi KC,UP Yoddha,36,38,28-10-2018,"Patliputra Sports Complex, Patna",6
+38,League,Patna Pirates,Haryana Steelers,32,43,28-10-2018,"Patliputra Sports Complex, Patna",6
+39,League,Puneri Paltan,Gujarat Fortunegiants,27,37,30-10-2018,"Patliputra Sports Complex, Patna",6
+40,League,Patna Pirates,Telugu Titans,32,53,30-10-2018,"Patliputra Sports Complex, Patna",6
+41,League,Dabang Delhi KC,Puneri Paltan,27,31,31-10-2018,"Patliputra Sports Complex, Patna",6
+42,League,Patna Pirates,Bengaluru Bulls,41,43,31-10-2018,"Patliputra Sports Complex, Patna",6
+43,League,Patna Pirates,Bengal Warriors,29,27,01-11-2018,"Patliputra Sports Complex, Patna",6
+44,League,UP Yoddha,Tamil Thalaivas,24,46,02-11-2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6
+45,League,Jaipur Pink Panthers,Gujarat Fortunegiants,25,36,02-11-2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6
+46,League,U Mumba,Puneri Paltan,31,22,03-11-2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6
+47,League,UP Yoddha,Bengaluru Bulls,29,35,03-11-2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6
+48,League,Dabang Delhi KC,Gujarat Fortunegiants,38,45,04-11-2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6
+49,League,UP Yoddha,Bengal Warriors,30,30,04-11-2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6
+50,League,Jaipur Pink Panthers,Haryana Steelers,38,32,06-11-2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6
+51,League,UP Yoddha,Telugu Titans,26,26,06-11-2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6
+52,League,Haryana Steelers,Dabang Delhi KC,33,39,08-11-2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6
+53,League,UP Yoddha,Bengaluru Bulls,27,37,08-11-2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6
+54,League,U Mumba,Jaipur Pink Panthers,48,24,09-11-2018,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",6
+55,League,Bengal Warriors,Telugu Titans,30,25,09-11-2018,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",6
+56,League,Patna Pirates,Bengal Warriors,50,30,10-11-2018,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",6
+57,League,U Mumba,Gujarat Fortunegiants,36,38,10-11-2018,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",6
+58,League,Jaipur Pink Panthers,Dabang Delhi KC,29,40,11-11-2018,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",6
+59,League,U Mumba,Haryana Steelers,31,35,11-11-2018,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",6
+60,League,Puneri Paltan,Telugu Titans,25,28,13-11-2018,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",6
+61,League,U Mumba,UP Yoddha,41,24,13-11-2018,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",6
+62,League,Tamil Thalaivas,Haryana Steelers,32,32,14-11-2018,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",6
+63,League,U Mumba,Bengaluru Bulls,32,29,14-11-2018,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",6
+64,League,Patna Pirates,Dabang Delhi KC,38,35,15-11-2018,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",6
+65,League,U Mumba,Tamil Thalaivas,36,22,15-11-2018,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",6
+66,League,Gujarat Fortunegiants,Bengal Warriors,35,23,16-11-2018,"The Arena, Ahmedabad, Ahmedabad",6
+67,League,Jaipur Pink Panthers,UP Yoddha,45,28,16-11-2018,"The Arena, Ahmedabad, Ahmedabad",6
+68,League,Puneri Paltan,Bengal Warriors,22,26,17-11-2018,"The Arena, Ahmedabad, Ahmedabad",6
+69,League,Gujarat Fortunegiants,Bengaluru Bulls,30,30,17-11-2018,"The Arena, Ahmedabad, Ahmedabad",6
+70,League,Jaipur Pink Panthers,Bengaluru Bulls,32,45,18-11-2018,"The Arena, Ahmedabad, Ahmedabad",6
+71,League,Gujarat Fortunegiants,UP Yoddha,37,32,18-11-2018,"The Arena, Ahmedabad, Ahmedabad",6
+72,League,Tamil Thalaivas,Telugu Titans,27,23,20-11-2018,"The Arena, Ahmedabad, Ahmedabad",6
+73,League,Gujarat Fortunegiants,Dabang Delhi KC,26,29,20-11-2018,"The Arena, Ahmedabad, Ahmedabad",6
+74,League,Patna Pirates,Tamil Thalaivas,45,27,21-11-2018,"The Arena, Ahmedabad, Ahmedabad",6
+75,League,Gujarat Fortunegiants,U Mumba,39,35,21-11-2018,"The Arena, Ahmedabad, Ahmedabad",6
+76,League,Gujarat Fortunegiants,Haryana Steelers,40,31,22-11-2018,"The Arena, Ahmedabad, Ahmedabad",6
+77,League,Bengaluru Bulls,Bengal Warriors,31,33,23-11-2018,", Bangalore",6
+78,League,Jaipur Pink Panthers,Puneri Paltan,30,30,23-11-2018,", Bangalore",6
+79,League,U Mumba,Dabang Delhi KC,39,23,24-11-2018,", Bangalore",6
+80,League,Bengaluru Bulls,Tamil Thalaivas,36,22,24-11-2018,", Bangalore",6
+81,League,Dabang Delhi KC,Haryana Steelers,27,34,25-11-2018,", Bangalore",6
+82,League,Bengaluru Bulls,Patna Pirates,32,35,25-11-2018,", Bangalore",6
+83,League,Tamil Thalaivas,Telugu Titans,31,25,26-11-2018,", Bangalore",6
+84,League,Bengaluru Bulls,UP Yoddha,37,27,26-11-2018,", Bangalore",6
+85,League,Haryana Steelers,Puneri Paltan,33,35,28-11-2018,", Bangalore",6
+86,League,Bengaluru Bulls,Telugu Titans,34,26,28-11-2018,", Bangalore",6
+87,League,Puneri Paltan,Gujarat Fortunegiants,20,35,29-11-2018,", Bangalore",6
+88,League,Bengaluru Bulls,Bengal Warriors,37,44,29-11-2018,", Bangalore",6
+89,League,Dabang Delhi KC,Jaipur Pink Panthers,48,35,30-11-2018,"Thyagaraj Sports Complex, Delhi, Delhi",6
+90,League,Tamil Thalaivas,Patna Pirates,35,35,30-11-2018,"Thyagaraj Sports Complex, Delhi, Delhi",6
+91,League,Dabang Delhi KC,U Mumba,34,41,01-12-2018,"Thyagaraj Sports Complex, Delhi, Delhi",6
+92,League,U Mumba,Gujarat Fortunegiants,36,26,02-12-2018,"Thyagaraj Sports Complex, Delhi, Delhi",6
+93,League,Dabang Delhi KC,Puneri Paltan,35,24,02-12-2018,"Thyagaraj Sports Complex, Delhi, Delhi",6
+94,League,Patna Pirates,Gujarat Fortunegiants,27,45,04-12-2018,"Thyagaraj Sports Complex, Delhi, Delhi",6
+95,League,Dabang Delhi KC,Telugu Titans,34,29,04-12-2018,"Thyagaraj Sports Complex, Delhi, Delhi",6
+96,League,Haryana Steelers,Bengal Warriors,35,33,05-12-2018,"Thyagaraj Sports Complex, Delhi, Delhi",6
+97,League,Dabang Delhi KC,Bengaluru Bulls,32,31,05-12-2018,"Thyagaraj Sports Complex, Delhi, Delhi",6
+98,League,UP Yoddha,Haryana Steelers,30,29,06-12-2018,"Thyagaraj Sports Complex, Delhi, Delhi",6
+99,League,Dabang Delhi KC,Tamil Thalaivas,37,33,06-12-2018,"Thyagaraj Sports Complex, Delhi, Delhi",6
+0,League,Telugu Titans,Gujarat Fortunegiants,27,29,07-12-2018,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",6
+1,League,Patna Pirates,Puneri Paltan,53,36,07-12-2018,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",6
+2,League,U Mumba,Bengal Warriors,31,20,08-12-2018,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",6
+3,League,Telugu Titans,Jaipur Pink Panthers,36,26,08-12-2018,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",6
+4,League,Tamil Thalaivas,Jaipur Pink Panthers,24,37,09-12-2018,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",6
+5,League,Telugu Titans,Haryana Steelers,35,31,09-12-2018,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",6
+6,League,Dabang Delhi KC,U Mumba,19,44,11-12-2018,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",6
+7,League,Telugu Titans,UP Yoddha,20,27,11-12-2018,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",6
+8,League,Haryana Steelers,Gujarat Fortunegiants,37,47,12-12-2018,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",6
+9,League,Telugu Titans,Bengaluru Bulls,24,37,12-12-2018,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",6
+10,League,Telugu Titans,Patna Pirates,41,36,13-12-2018,"Rajiv Gandhi Indoor Stadium, Vizag, Vizag",6
+11,League,Jaipur Pink Panthers,Puneri Paltan,36,23,14-12-2018,"Sawai Mansingh Stadium, Jaipur, Jaipur",6
+12,League,Bengal Warriors,Tamil Thalaivas,28,21,14-12-2018,"Sawai Mansingh Stadium, Jaipur, Jaipur",6
+13,League,UP Yoddha,Tamil Thalaivas,25,25,15-12-2018,"Sawai Mansingh Stadium, Jaipur, Jaipur",6
+14,League,Jaipur Pink Panthers,U Mumba,35,35,15-12-2018,"Sawai Mansingh Stadium, Jaipur, Jaipur",6
+15,League,Patna Pirates,UP Yoddha,31,47,16-12-2018,"Sawai Mansingh Stadium, Jaipur, Jaipur",6
+16,League,Jaipur Pink Panthers,Gujarat Fortunegiants,29,34,16-12-2018,"Sawai Mansingh Stadium, Jaipur, Jaipur",6
+17,League,Bengaluru Bulls,Telugu Titans,44,28,18-12-2018,"Sawai Mansingh Stadium, Jaipur, Jaipur",6
+18,League,Jaipur Pink Panthers,Haryana Steelers,39,30,18-12-2018,"Sawai Mansingh Stadium, Jaipur, Jaipur",6
+19,League,Patna Pirates,Bengaluru Bulls,40,40,19-12-2018,"Sawai Mansingh Stadium, Jaipur, Jaipur",6
+20,League,Jaipur Pink Panthers,Gujarat Fortunegiants,31,33,19-12-2018,"Sawai Mansingh Stadium, Jaipur, Jaipur",6
+21,League,Jaipur Pink Panthers,Dabang Delhi KC,37,37,20-12-2018,"Sawai Mansingh Stadium, Jaipur, Jaipur",6
+22,League,Bengal Warriors,Tamil Thalaivas,27,24,21-12-2018,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",6
+23,Wild Card 1,Puneri Paltan,Telugu Titans,35,20,21-12-2018,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",6
+24,Wild Card 2,U Mumba,UP Yoddha,32,34,22-12-2018,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",6
+25,League,Bengal Warriors,Patna Pirates,39,23,22-12-2018,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",6
+26,Wild Card 3,Bengal Warriors,Dabang Delhi KC,31,37,23-12-2018,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",6
+27,Wild Card 4,Haryana Steelers,Tamil Thalaivas,40,40,25-12-2018,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",6
+28,League,Bengal Warriors,Telugu Titans,39,34,25-12-2018,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",6
+29,Wild Card 5,Gujarat Fortunegiants,Patna Pirates,37,29,26-12-2018,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",6
+30,League,Bengal Warriors,Bengaluru Bulls,37,31,26-12-2018,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",6
+31,Wild Card 6,Jaipur Pink Panthers,Bengaluru Bulls,32,40,27-12-2018,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",6
+32,League,Bengal Warriors,UP Yoddha,25,41,27-12-2018,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata, Kolkata",6
+33,Eliminator 1,U Mumba,UP Yoddha,29,34,30-12-2018,"Rajiv Gandhi Indoor Stadium, Kochi, Kochi",6
+34,Eliminator 2,Dabang Delhi KC,Bengal Warriors,39,28,30-12-2018,"Rajiv Gandhi Indoor Stadium, Kochi, Kochi",6
+35,Qualifier 1,Gujarat Fortunegiants,Bengaluru Bulls,29,41,31-12-2018,"Rajiv Gandhi Indoor Stadium, Kochi, Kochi",6
+36,Eliminator 3,UP Yoddha,Dabang Delhi KC,45,33,31-12-2018,"Rajiv Gandhi Indoor Stadium, Kochi, Kochi",6
+37,Qualifier 2,Gujarat Fortunegiants,UP Yoddha,38,31,03-01-2019,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",6
+38,Final,Bengaluru Bulls,Gujarat Fortunegiants,38,33,05-01-2019,"Dome@NSCI Svp Stadium, Mumbai, Mumbai",6
+1,League,Telugu Titans,U Mumba,25,31,20-07-2019,"GACHIBOWLI INDOOR STADIUM, Hyderabad",7
+2,League,Bengaluru Bulls,Patna Pirates,34,32,20-07-2019,"GACHIBOWLI INDOOR STADIUM, Hyderabad",7
+3,League,Bengaluru Bulls,Gujarat Fortunegiants,24,42,21-07-2019,"GACHIBOWLI INDOOR STADIUM, Hyderabad",7
+4,League,Telugu Titans,Tamil Thalaivas,26,39,21-07-2019,"GACHIBOWLI INDOOR STADIUM, Hyderabad",7
+5,League,U Mumba,Jaipur Pink Panthers,23,42,22-07-2019,"GACHIBOWLI INDOOR STADIUM, Hyderabad",7
+6,League,Puneri Paltan,Haryana Steelers,24,34,22-07-2019,"GACHIBOWLI INDOOR STADIUM, Hyderabad",7
+7,League,UP Yoddha,Bengal Warriors,17,48,24-07-2019,"GACHIBOWLI INDOOR STADIUM, Hyderabad",7
+8,League,Telugu Titans,Dabang Delhi KC,33,34,24-07-2019,"GACHIBOWLI INDOOR STADIUM, Hyderabad",7
+9,League,Dabang Delhi KC,Tamil Thalaivas,30,29,25-07-2019,"GACHIBOWLI INDOOR STADIUM, Hyderabad",7
+10,League,UP Yoddha,Gujarat Fortunegiants,19,44,26-07-2019,"GACHIBOWLI INDOOR STADIUM, Hyderabad",7
+11,League,Telugu Titans,Patna Pirates,22,34,26-07-2019,"GACHIBOWLI INDOOR STADIUM, Hyderabad",7
+12,League,U Mumba,Puneri Paltan,33,23,27-07-2019,"DOME@NSCI SVP STADIUM, Mumbai",7
+13,League,Jaipur Pink Panthers,Bengal Warriors,27,25,27-07-2019,"DOME@NSCI SVP STADIUM, Mumbai",7
+14,League,Dabang Delhi KC,Haryana Steelers,41,21,28-07-2019,"DOME@NSCI SVP STADIUM, Mumbai",7
+15,League,U Mumba,Bengaluru Bulls,26,30,28-07-2019,"DOME@NSCI SVP STADIUM, Mumbai",7
+16,League,Tamil Thalaivas,Patna Pirates,23,24,29-07-2019,"DOME@NSCI SVP STADIUM, Mumbai",7
+17,League,Bengal Warriors,Puneri Paltan,43,23,29-07-2019,"DOME@NSCI SVP STADIUM, Mumbai",7
+18,League,Haryana Steelers,Jaipur Pink Panthers,21,37,31-07-2019,"DOME@NSCI SVP STADIUM, Mumbai",7
+19,League,U Mumba,UP Yoddha,23,27,31-07-2019,"DOME@NSCI SVP STADIUM, Mumbai",7
+20,League,Gujarat Fortunegiants,Dabang Delhi KC,31,26,01-08-2019,"DOME@NSCI SVP STADIUM, Mumbai",7
+21,League,Telugu Titans,UP Yoddha,20,20,02-08-2019,"DOME@NSCI SVP STADIUM, Mumbai",7
+22,League,U Mumba,Gujarat Fortunegiants,32,20,02-08-2019,"DOME@NSCI SVP STADIUM, Mumbai",7
+23,League,Patna Pirates,Jaipur Pink Panthers,21,34,03-08-2019,"PATLIPUTRA SPORTS COMPLEX, Patna",7
+24,League,Bengal Warriors,Bengaluru Bulls,42,43,03-08-2019,"PATLIPUTRA SPORTS COMPLEX, Patna",7
+25,League,Haryana Steelers,Tamil Thalaivas,28,35,04-08-2019,"PATLIPUTRA SPORTS COMPLEX, Patna",7
+26,League,Patna Pirates,Puneri Paltan,20,41,04-08-2019,"PATLIPUTRA SPORTS COMPLEX, Patna",7
+27,League,Dabang Delhi KC,Jaipur Pink Panthers,35,24,05-08-2019,"PATLIPUTRA SPORTS COMPLEX, Patna",7
+28,League,Gujarat Fortunegiants,Puneri Paltan,31,33,05-08-2019,"PATLIPUTRA SPORTS COMPLEX, Patna",7
+29,League,UP Yoddha,Tamil Thalaivas,28,28,07-08-2019,"PATLIPUTRA SPORTS COMPLEX, Patna",7
+30,League,Patna Pirates,Haryana Steelers,26,35,07-08-2019,"PATLIPUTRA SPORTS COMPLEX, Patna",7
+31,League,Telugu Titans,Bengaluru Bulls,26,47,08-08-2019,"PATLIPUTRA SPORTS COMPLEX, Patna",7
+32,League,Bengal Warriors,U Mumba,32,30,09-08-2019,"PATLIPUTRA SPORTS COMPLEX, Patna",7
+33,League,Patna Pirates,UP Yoddha,41,20,09-08-2019,"PATLIPUTRA SPORTS COMPLEX, Patna",7
+34,League,Gujarat Fortunegiants,Tamil Thalaivas,28,34,10-08-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+35,League,Puneri Paltan,Dabang Delhi KC,30,32,10-08-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+36,League,Bengaluru Bulls,Haryana Steelers,30,33,11-08-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+37,League,Gujarat Fortunegiants,Telugu Titans,24,30,11-08-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+38,League,Bengal Warriors,Telugu Titans,29,29,12-08-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+39,League,UP Yoddha,Bengaluru Bulls,35,33,12-08-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+40,League,UP Yoddha,Haryana Steelers,33,36,14-08-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+41,League,Gujarat Fortunegiants,Bengal Warriors,26,28,14-08-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+42,League,Jaipur Pink Panthers,Puneri Paltan,33,25,15-08-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+43,League,U Mumba,Patna Pirates,34,30,16-08-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+44,League,Gujarat Fortunegiants,Jaipur Pink Panthers,19,22,16-08-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+45,League,Tamil Thalaivas,Bengaluru Bulls,21,32,17-08-2019,"JAWAHARLAL NEHRU INDOOR STADIUM, Chennai",7
+46,League,Bengal Warriors,Dabang Delhi KC,30,30,17-08-2019,"JAWAHARLAL NEHRU INDOOR STADIUM, Chennai",7
+47,League,Haryana Steelers,Telugu Titans,29,40,18-08-2019,"JAWAHARLAL NEHRU INDOOR STADIUM, Chennai",7
+48,League,Tamil Thalaivas,Puneri Paltan,31,31,18-08-2019,"JAWAHARLAL NEHRU INDOOR STADIUM, Chennai",7
+49,League,U Mumba,Haryana Steelers,27,30,19-08-2019,"JAWAHARLAL NEHRU INDOOR STADIUM, Chennai",7
+50,League,UP Yoddha,Jaipur Pink Panthers,31,24,19-08-2019,"JAWAHARLAL NEHRU INDOOR STADIUM, Chennai",7
+51,League,Puneri Paltan,Bengaluru Bulls,31,23,21-08-2019,"JAWAHARLAL NEHRU INDOOR STADIUM, Chennai",7
+52,League,Tamil Thalaivas,Jaipur Pink Panthers,26,28,21-08-2019,"JAWAHARLAL NEHRU INDOOR STADIUM, Chennai",7
+53,League,Bengal Warriors,Patna Pirates,35,26,22-08-2019,"JAWAHARLAL NEHRU INDOOR STADIUM, Chennai",7
+54,League,Gujarat Fortunegiants,Patna Pirates,29,26,23-08-2019,"JAWAHARLAL NEHRU INDOOR STADIUM, Chennai",7
+55,League,Tamil Thalaivas,U Mumba,24,29,23-08-2019,"JAWAHARLAL NEHRU INDOOR STADIUM, Chennai",7
+56,League,Dabang Delhi KC,Bengaluru Bulls,33,31,24-08-2019,"THYAGARAJ SPORTS COMPLEX, Delhi",7
+57,League,Jaipur Pink Panthers,Telugu Titans,21,24,24-08-2019,"THYAGARAJ SPORTS COMPLEX, Delhi",7
+58,League,Jaipur Pink Panthers,Bengaluru Bulls,30,41,25-08-2019,"THYAGARAJ SPORTS COMPLEX, Delhi",7
+59,League,Dabang Delhi KC,UP Yoddha,36,27,25-08-2019,"THYAGARAJ SPORTS COMPLEX, Delhi",7
+60,League,Bengal Warriors,Haryana Steelers,33,36,26-08-2019,"THYAGARAJ SPORTS COMPLEX, Delhi",7
+61,League,UP Yoddha,Puneri Paltan,35,30,26-08-2019,"THYAGARAJ SPORTS COMPLEX, Delhi",7
+62,League,Gujarat Fortunegiants,Haryana Steelers,25,41,28-08-2019,"THYAGARAJ SPORTS COMPLEX, Delhi",7
+63,League,Dabang Delhi KC,U Mumba,40,24,28-08-2019,"THYAGARAJ SPORTS COMPLEX, Delhi",7
+64,League,Bengal Warriors,Tamil Thalaivas,35,26,29-08-2019,"THYAGARAJ SPORTS COMPLEX, Delhi",7
+65,League,Telugu Titans,Puneri Paltan,27,34,30-08-2019,"THYAGARAJ SPORTS COMPLEX, Delhi",7
+66,League,Dabang Delhi KC,Patna Pirates,38,35,30-08-2019,"THYAGARAJ SPORTS COMPLEX, Delhi",7
+67,League,Bengaluru Bulls,Gujarat Fortunegiants,23,32,31-08-2019,"SREE KANTEERAVA STADIUM, Bangalore",7
+68,League,U Mumba,Jaipur Pink Panthers,47,21,31-08-2019,"SREE KANTEERAVA STADIUM, Bangalore",7
+69,League,UP Yoddha,Bengal Warriors,32,29,01-09-2019,"SREE KANTEERAVA STADIUM, Bangalore",7
+70,League,Bengaluru Bulls,Tamil Thalaivas,33,27,01-09-2019,"SREE KANTEERAVA STADIUM, Bangalore",7
+71,League,Puneri Paltan,Haryana Steelers,27,41,02-09-2019,"SREE KANTEERAVA STADIUM, Bangalore",7
+72,League,Telugu Titans,Tamil Thalaivas,35,30,02-09-2019,"SREE KANTEERAVA STADIUM, Bangalore",7
+73,League,Jaipur Pink Panthers,Dabang Delhi KC,44,46,04-09-2019,"SREE KANTEERAVA STADIUM, Bangalore",7
+74,League,Bengaluru Bulls,Patna Pirates,40,39,04-09-2019,"SREE KANTEERAVA STADIUM, Bangalore",7
+75,League,Puneri Paltan,U Mumba,33,33,05-09-2019,"SREE KANTEERAVA STADIUM, Bangalore",7
+76,League,Patna Pirates,UP Yoddha,29,41,06-09-2019,"SREE KANTEERAVA STADIUM, Bangalore",7
+77,League,Bengaluru Bulls,Telugu Titans,40,39,06-09-2019,"SREE KANTEERAVA STADIUM, Bangalore",7
+78,League,Bengal Warriors,Gujarat Fortunegiants,25,25,07-09-2019,"NETAJI SUBHASH CHANDRA BOSE INDOOR STADIUM, Kolkata",7
+79,League,Dabang Delhi KC,Haryana Steelers,25,47,07-09-2019,"NETAJI SUBHASH CHANDRA BOSE INDOOR STADIUM, Kolkata",7
+80,League,Dabang Delhi KC,Tamil Thalaivas,50,34,08-09-2019,"NETAJI SUBHASH CHANDRA BOSE INDOOR STADIUM, Kolkata",7
+81,League,Bengal Warriors,Puneri Paltan,42,39,08-09-2019,"NETAJI SUBHASH CHANDRA BOSE INDOOR STADIUM, Kolkata",7
+82,League,UP Yoddha,Gujarat Fortunegiants,33,26,09-09-2019,"NETAJI SUBHASH CHANDRA BOSE INDOOR STADIUM, Kolkata",7
+83,League,Tamil Thalaivas,Patna Pirates,25,51,09-09-2019,"NETAJI SUBHASH CHANDRA BOSE INDOOR STADIUM, Kolkata",7
+84,League,Telugu Titans,U Mumba,27,41,10-09-2019,"NETAJI SUBHASH CHANDRA BOSE INDOOR STADIUM, Kolkata",7
+85,League,Haryana Steelers,Jaipur Pink Panthers,32,32,11-09-2019,"NETAJI SUBHASH CHANDRA BOSE INDOOR STADIUM, Kolkata",7
+86,League,Bengal Warriors,U Mumba,29,26,11-09-2019,"NETAJI SUBHASH CHANDRA BOSE INDOOR STADIUM, Kolkata",7
+87,League,Jaipur Pink Panthers,Patna Pirates,33,36,12-09-2019,"NETAJI SUBHASH CHANDRA BOSE INDOOR STADIUM, Kolkata",7
+88,League,Bengal Warriors,Bengaluru Bulls,42,40,12-09-2019,"NETAJI SUBHASH CHANDRA BOSE INDOOR STADIUM, Kolkata",7
+89,League,Puneri Paltan,Gujarat Fortunegiants,43,33,14-09-2019,"SHREE SHIV CHHATRAPATI SPORTS COMPLEX, Pune",7
+90,League,Tamil Thalaivas,Haryana Steelers,35,43,14-09-2019,"SHREE SHIV CHHATRAPATI SPORTS COMPLEX, Pune",7
+91,League,Dabang Delhi KC,Gujarat Fortunegiants,34,30,15-09-2019,"SHREE SHIV CHHATRAPATI SPORTS COMPLEX, Pune",7
+92,League,Puneri Paltan,Patna Pirates,33,55,15-09-2019,"SHREE SHIV CHHATRAPATI SPORTS COMPLEX, Pune",7
+93,League,Jaipur Pink Panthers,UP Yoddha,32,38,16-09-2019,"SHREE SHIV CHHATRAPATI SPORTS COMPLEX, Pune",7
+94,League,Telugu Titans,Dabang Delhi KC,29,37,16-09-2019,"SHREE SHIV CHHATRAPATI SPORTS COMPLEX, Pune",7
+95,League,U Mumba,UP Yoddha,39,36,18-09-2019,"SHREE SHIV CHHATRAPATI SPORTS COMPLEX, Pune",7
+96,League,Puneri Paltan,Tamil Thalaivas,36,36,18-09-2019,"SHREE SHIV CHHATRAPATI SPORTS COMPLEX, Pune",7
+97,League,Bengal Warriors,Haryana Steelers,48,36,19-09-2019,"SHREE SHIV CHHATRAPATI SPORTS COMPLEX, Pune",7
+98,League,Telugu Titans,Patna Pirates,42,42,20-09-2019,"SHREE SHIV CHHATRAPATI SPORTS COMPLEX, Pune",7
+99,League,Puneri Paltan,Bengaluru Bulls,42,38,20-09-2019,"SHREE SHIV CHHATRAPATI SPORTS COMPLEX, Pune",7
+0,League,Jaipur Pink Panthers,Gujarat Fortunegiants,28,28,21-09-2019,"SAWAI MANSINGH STADIUM, Jaipur",7
+1,League,UP Yoddha,Tamil Thalaivas,42,22,21-09-2019,"SAWAI MANSINGH STADIUM, Jaipur",7
+2,League,U Mumba,Gujarat Fortunegiants,31,25,22-09-2019,"SAWAI MANSINGH STADIUM, Jaipur",7
+3,League,Jaipur Pink Panthers,Bengal Warriors,40,41,22-09-2019,"SAWAI MANSINGH STADIUM, Jaipur",7
+4,League,Patna Pirates,Haryana Steelers,34,39,23-09-2019,"SAWAI MANSINGH STADIUM, Jaipur",7
+5,League,Dabang Delhi KC,Bengaluru Bulls,39,39,23-09-2019,"SAWAI MANSINGH STADIUM, Jaipur",7
+6,League,Telugu Titans,Bengal Warriors,39,40,25-09-2019,"SAWAI MANSINGH STADIUM, Jaipur",7
+7,League,Jaipur Pink Panthers,Puneri Paltan,43,34,25-09-2019,"SAWAI MANSINGH STADIUM, Jaipur",7
+8,League,Patna Pirates,Dabang Delhi KC,39,43,26-09-2019,"SAWAI MANSINGH STADIUM, Jaipur",7
+9,League,U Mumba,Bengaluru Bulls,33,35,27-09-2019,"SAWAI MANSINGH STADIUM, Jaipur",7
+10,League,Jaipur Pink Panthers,Telugu Titans,31,51,27-09-2019,"SAWAI MANSINGH STADIUM, Jaipur",7
+11,League,Haryana Steelers,UP Yoddha,30,37,28-09-2019,"TAU DEVILAL SPORTS COMPLEX, Panchkula",7
+12,League,Gujarat Fortunegiants,Tamil Thalaivas,50,21,28-09-2019,"TAU DEVILAL SPORTS COMPLEX, Panchkula",7
+13,League,Puneri Paltan,Dabang Delhi KC,40,60,29-09-2019,"TAU DEVILAL SPORTS COMPLEX, Panchkula",7
+14,League,Haryana Steelers,Gujarat Fortunegiants,38,37,29-09-2019,"TAU DEVILAL SPORTS COMPLEX, Panchkula",7
+15,League,Bengal Warriors,Dabang Delhi KC,42,33,30-09-2019,"TAU DEVILAL SPORTS COMPLEX, Panchkula",7
+16,League,Tamil Thalaivas,U Mumba,32,36,30-09-2019,"TAU DEVILAL SPORTS COMPLEX, Panchkula",7
+17,League,U Mumba,Patna Pirates,30,26,02-10-2019,"TAU DEVILAL SPORTS COMPLEX, Panchkula",7
+18,League,Haryana Steelers,Bengaluru Bulls,36,59,02-10-2019,"TAU DEVILAL SPORTS COMPLEX, Panchkula",7
+19,League,Telugu Titans,Puneri Paltan,50,53,03-10-2019,"TAU DEVILAL SPORTS COMPLEX, Panchkula",7
+20,League,Jaipur Pink Panthers,Bengaluru Bulls,41,34,04-10-2019,"TAU DEVILAL SPORTS COMPLEX, Panchkula",7
+21,League,Haryana Steelers,Telugu Titans,52,32,04-10-2019,"TAU DEVILAL SPORTS COMPLEX, Panchkula",7
+22,League,UP Yoddha,Dabang Delhi KC,50,33,05-10-2019,"SHAHEED VIJAY SINGH PATHIK SPORTS COMPLEX, Noida",7
+23,League,Gujarat Fortunegiants,Patna Pirates,33,39,05-10-2019,"SHAHEED VIJAY SINGH PATHIK SPORTS COMPLEX, Noida",7
+24,League,Bengal Warriors,Patna Pirates,41,69,06-10-2019,"SHAHEED VIJAY SINGH PATHIK SPORTS COMPLEX, Noida",7
+25,League,UP Yoddha,Puneri Paltan,43,39,06-10-2019,"SHAHEED VIJAY SINGH PATHIK SPORTS COMPLEX, Noida",7
+26,League,Telugu Titans,Gujarat Fortunegiants,38,48,07-10-2019,"SHAHEED VIJAY SINGH PATHIK SPORTS COMPLEX, Noida",7
+27,League,Tamil Thalaivas,Jaipur Pink Panthers,35,33,07-10-2019,"SHAHEED VIJAY SINGH PATHIK SPORTS COMPLEX, Noida",7
+28,League,Bengal Warriors,Tamil Thalaivas,33,29,09-10-2019,"SHAHEED VIJAY SINGH PATHIK SPORTS COMPLEX, Noida",7
+29,League,UP Yoddha,Telugu Titans,36,41,09-10-2019,"SHAHEED VIJAY SINGH PATHIK SPORTS COMPLEX, Noida",7
+30,League,U Mumba,Haryana Steelers,39,33,10-10-2019,"SHAHEED VIJAY SINGH PATHIK SPORTS COMPLEX, Noida",7
+31,League,Dabang Delhi KC,U Mumba,37,37,11-10-2019,"SHAHEED VIJAY SINGH PATHIK SPORTS COMPLEX, Noida",7
+32,League,UP Yoddha,Bengaluru Bulls,45,33,11-10-2019,"SHAHEED VIJAY SINGH PATHIK SPORTS COMPLEX, Noida",7
+33,Eliminator 1,UP Yoddha,Bengaluru Bulls,45,48,14-10-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+34,Eliminator 2,U Mumba,Haryana Steelers,46,38,14-10-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+35,Semi Final 1,Bengaluru Bulls,Dabang Delhi KC,38,44,16-10-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+36,Semi Final 2,Bengal Warriors,U Mumba,37,35,16-10-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+37,Final,Dabang Delhi KC,Bengal Warriors,34,39,19-10-2019,"EKA ARENA BY TRANSSTADIA, Ahmedabad",7
+1,League,Bengaluru Bulls,U Mumba,30,46,22-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+2,League,Telugu Titans,Tamil Thalaivas,40,40,22-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+3,League,Bengal Warriors,UP Yoddha,38,33,22-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+4,League,Gujarat Giants,Jaipur Pink Panthers,34,27,23-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+5,League,Dabang Delhi KC,Puneri Paltan,41,30,23-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+6,League,Haryana Steelers,Patna Pirates,39,42,23-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+7,League,U Mumba,Dabang Delhi KC,27,31,24-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+8,League,Tamil Thalaivas,Bengaluru Bulls,30,38,24-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+9,League,Bengal Warriors,Gujarat Giants,31,28,24-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+10,League,Patna Pirates,UP Yoddha,35,36,25-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+11,League,Puneri Paltan,Telugu Titans,34,33,25-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+12,League,Jaipur Pink Panthers,Haryana Steelers,40,38,25-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+13,League,Gujarat Giants,Dabang Delhi KC,24,24,26-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+14,League,Bengaluru Bulls,Bengal Warriors,36,35,26-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+15,League,Tamil Thalaivas,U Mumba,30,30,27-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+16,League,UP Yoddha,Jaipur Pink Panthers,29,32,27-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+17,League,Puneri Paltan,Patna Pirates,26,38,28-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+18,League,Telugu Titans,Haryana Steelers,37,39,28-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+19,League,Dabang Delhi KC,Bengal Warriors,52,35,29-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+20,League,UP Yoddha,Gujarat Giants,32,32,29-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+21,League,Jaipur Pink Panthers,U Mumba,28,37,30-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+22,League,Haryana Steelers,Bengaluru Bulls,28,42,30-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+23,League,Tamil Thalaivas,Puneri Paltan,36,26,31-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+24,League,Patna Pirates,Bengal Warriors,44,30,31-12-2021,"Sheraton Grand Convention Center, Bangalore",8
+25,League,U Mumba,UP Yoddha,28,28,01-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+26,League,Bengaluru Bulls,Telugu Titans,34,34,01-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+27,League,Dabang Delhi KC,Tamil Thalaivas,30,30,01-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+28,League,Gujarat Giants,Haryana Steelers,36,38,02-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+29,League,Puneri Paltan,Bengaluru Bulls,29,40,02-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+30,League,Bengal Warriors,Jaipur Pink Panthers,31,28,03-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+31,League,Telugu Titans,Patna Pirates,30,31,03-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+32,League,Haryana Steelers,U Mumba,24,24,04-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+33,League,UP Yoddha,Tamil Thalaivas,33,39,04-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+34,League,Puneri Paltan,Gujarat Giants,33,26,05-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+35,League,Dabang Delhi KC,Telugu Titans,36,35,05-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+36,League,Patna Pirates,Tamil Thalaivas,30,30,06-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+37,League,Bengaluru Bulls,Jaipur Pink Panthers,38,31,06-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+38,League,Bengal Warriors,Haryana Steelers,37,41,07-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+39,League,Jaipur Pink Panthers,Puneri Paltan,31,26,07-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+40,League,UP Yoddha,Dabang Delhi KC,33,37,08-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+41,League,U Mumba,Telugu Titans,48,38,08-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+42,League,Gujarat Giants,Patna Pirates,26,27,08-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+43,League,Puneri Paltan,Bengal Warriors,39,27,09-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+44,League,Bengaluru Bulls,UP Yoddha,27,42,09-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+45,League,Tamil Thalaivas,Haryana Steelers,45,26,10-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+46,League,Jaipur Pink Panthers,Dabang Delhi KC,30,28,10-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+47,League,Patna Pirates,U Mumba,43,23,11-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+48,League,Telugu Titans,Gujarat Giants,22,40,11-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+49,League,Haryana Steelers,UP Yoddha,36,36,12-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+50,League,Dabang Delhi KC,Bengaluru Bulls,22,61,12-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+51,League,Bengal Warriors,Tamil Thalaivas,37,28,13-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+52,League,U Mumba,Puneri Paltan,23,42,13-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+53,League,Jaipur Pink Panthers,Patna Pirates,38,28,14-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+54,League,Gujarat Giants,Bengaluru Bulls,37,46,14-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+55,League,Haryana Steelers,Dabang Delhi KC,25,28,15-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+56,League,UP Yoddha,Telugu Titans,39,33,15-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+57,League,U Mumba,Bengal Warriors,32,32,15-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+58,League,Tamil Thalaivas,Jaipur Pink Panthers,31,31,16-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+59,League,Patna Pirates,Bengaluru Bulls,38,31,16-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+60,League,Puneri Paltan,UP Yoddha,40,50,17-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+61,League,Telugu Titans,Bengal Warriors,27,28,17-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+62,League,Dabang Delhi KC,Patna Pirates,32,29,18-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+63,League,Gujarat Giants,U Mumba,24,24,18-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+64,League,Haryana Steelers,Puneri Paltan,37,30,19-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+65,League,Jaipur Pink Panthers,Telugu Titans,34,35,19-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+66,League,Tamil Thalaivas,Gujarat Giants,35,37,20-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+67,League,Bengaluru Bulls,Bengal Warriors,39,40,20-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+68,League,Dabang Delhi KC,Haryana Steelers,33,36,21-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+69,League,Bengal Warriors,UP Yoddha,36,40,21-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+70,League,Bengaluru Bulls,Puneri Paltan,35,37,22-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+71,League,U Mumba,Telugu Titans,42,35,22-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+72,League,Jaipur Pink Panthers,Tamil Thalaivas,34,34,22-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+73,League,UP Yoddha,Haryana Steelers,35,36,23-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+74,League,Telugu Titans,Bengaluru Bulls,31,36,23-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+75,League,Bengal Warriors,Jaipur Pink Panthers,41,22,24-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+76,League,Puneri Paltan,Dabang Delhi KC,42,25,24-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+77,League,Haryana Steelers,Telugu Titans,39,39,25-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+78,League,U Mumba,Bengaluru Bulls,45,34,26-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+79,League,UP Yoddha,Puneri Paltan,38,44,27-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+80,League,Patna Pirates,Tamil Thalaivas,52,24,28-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+81,League,Gujarat Giants,Dabang Delhi KC,22,41,29-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+82,League,Patna Pirates,Jaipur Pink Panthers,30,51,30-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+83,League,Tamil Thalaivas,Bengaluru Bulls,42,24,30-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+84,League,Haryana Steelers,Gujarat Giants,26,32,31-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+85,League,Dabang Delhi KC,U Mumba,36,30,31-01-2022,"Sheraton Grand Convention Center, Bangalore",8
+86,League,Bengal Warriors,Gujarat Giants,25,34,01-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+87,League,Bengaluru Bulls,UP Yoddha,31,26,01-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+88,League,UP Yoddha,Patna Pirates,35,37,02-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+89,League,Puneri Paltan,U Mumba,36,34,02-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+90,League,Jaipur Pink Panthers,Dabang Delhi KC,36,30,03-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+91,League,Telugu Titans,Tamil Thalaivas,25,43,03-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+92,League,Haryana Steelers,Bengal Warriors,46,29,04-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+93,League,Dabang Delhi KC,Bengaluru Bulls,36,36,04-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+94,League,Gujarat Giants,Patna Pirates,23,43,04-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+95,League,U Mumba,Tamil Thalaivas,35,33,05-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+96,League,UP Yoddha,Telugu Titans,39,35,05-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+97,League,Jaipur Pink Panthers,Haryana Steelers,28,35,05-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+98,League,Patna Pirates,Bengal Warriors,38,29,06-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+99,League,Bengaluru Bulls,Gujarat Giants,36,40,06-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+0,League,Gujarat Giants,Jaipur Pink Panthers,31,36,07-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+1,League,Bengal Warriors,Telugu Titans,32,32,07-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+2,League,Tamil Thalaivas,Haryana Steelers,29,37,08-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+3,League,U Mumba,Patna Pirates,36,47,08-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+4,League,Tamil Thalaivas,UP Yoddha,39,41,09-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+5,League,Telugu Titans,Gujarat Giants,32,34,09-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+6,League,Bengal Warriors,Dabang Delhi KC,39,39,10-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+7,League,Puneri Paltan,Patna Pirates,26,43,10-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+8,League,Haryana Steelers,Puneri Paltan,27,45,11-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+9,League,Jaipur Pink Panthers,UP Yoddha,34,41,11-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+10,League,Tamil Thalaivas,Dabang Delhi KC,31,32,12-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+11,League,U Mumba,Bengal Warriors,37,27,12-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+12,League,Telugu Titans,Puneri Paltan,31,51,12-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+13,League,Haryana Steelers,U Mumba,37,26,13-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+14,League,Bengaluru Bulls,Jaipur Pink Panthers,45,37,13-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+15,League,UP Yoddha,Gujarat Giants,31,38,13-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+16,League,Patna Pirates,Telugu Titans,38,30,14-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+17,League,Dabang Delhi KC,UP Yoddha,28,44,14-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+18,League,Gujarat Giants,Puneri Paltan,31,31,14-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+19,League,U Mumba,Jaipur Pink Panthers,28,44,15-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+20,League,Patna Pirates,Bengaluru Bulls,36,34,15-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+21,League,Puneri Paltan,Tamil Thalaivas,43,31,15-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+22,League,Bengal Warriors,Tamil Thalaivas,52,21,16-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+23,League,Telugu Titans,Jaipur Pink Panthers,35,54,16-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+24,League,UP Yoddha,U Mumba,35,28,17-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+25,League,Bengaluru Bulls,Haryana Steelers,46,24,17-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+26,League,Dabang Delhi KC,Patna Pirates,26,23,17-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+27,League,Puneri Paltan,Bengal Warriors,36,43,18-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+28,League,Telugu Titans,Dabang Delhi KC,32,40,18-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+29,League,Tamil Thalaivas,Gujarat Giants,33,43,18-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+30,League,Jaipur Pink Panthers,Puneri Paltan,30,37,19-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+31,League,Gujarat Giants,U Mumba,36,33,19-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+32,League,Patna Pirates,Haryana Steelers,30,27,19-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+33,Eliminator 1,UP Yoddha,Puneri Paltan,42,31,21-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+34,Eliminator 2,Gujarat Giants,Bengaluru Bulls,29,49,21-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+35,Semi Final,Patna Pirates,UP Yoddha,38,27,23-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+36,Semi Final,Dabang Delhi KC,Bengaluru Bulls,40,35,23-02-2022,"Sheraton Grand Convention Center, Bangalore",8
+37,Final,Patna Pirates,Dabang Delhi KC,36,37,25-02-2022,"Sheraton Grand Convention Center, Bangalore",8
